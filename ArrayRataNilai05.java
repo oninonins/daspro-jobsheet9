@@ -11,6 +11,7 @@ public class ArrayRataNilai05 {
         double total = 0;
         double rata2;
         int jumlahLulus = 0; 
+        
 
         for (int i = 0; i < nilaiMhs.length; i++) {
             System.out.print("Masukkan nilai mahasiswa ke-" + (i + 1) + " : ");
